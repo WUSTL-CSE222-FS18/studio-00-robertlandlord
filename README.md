@@ -14,7 +14,11 @@ You can preview what your Markdown file will look like when styles are added by 
 ### Lists
 
 Create a numbered list of five of your favorite foods in-order from favorite to least favorite in the designated area below. Be sure to include at least two things that are made of multiple ingredients.  
-
+* pizza
+* pasta
+* apple
+* banana
+* lettuce
 For each item that has multiple ingredients, create a sub list of a few (2-5) of the ingredients.  Make one of the sub-lists numbered and the other should use bullet points. (It should look like an outline: The ingredients for item n are indented and immediately below item n, but before item n+1)
 
 ***Q2. Create your list here:***
